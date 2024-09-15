@@ -14,5 +14,5 @@ In this project, you'll learn fundamental programming concepts in Python, such a
 - **Vigenère cipher** 
     * A more complex cipher that uses a **keyword** to apply different Caesar ciphers to each letter in the plaintext, making it harder to crack.
     * Basically, it takes the Caesar cipher, which is one-dimensional, and transforms it into a matrix (two-dimensional)
-        * [Cifrado Vigenère matrix](https://www.youtube.com/watch?v=SkJcmCaHqS0)
-        * [Cifrado Vigenère](https://www.youtube.com/watch?v=E352JJ8xv48)
+        * [Cipher Vigenère matrix](https://www.youtube.com/watch?v=SkJcmCaHqS0)
+        * [Cipher Vigenère](https://www.youtube.com/watch?v=E352JJ8xv48)
