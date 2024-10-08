@@ -16,7 +16,7 @@ def main():
 
 def input_number_card():
     '''
-    Prompts the user for a 16-digit card number, with no dashes or spaces.
+    Prompts the user for a 16-digit card number.
     If the number entered contains only digits and is 16 in length it splits the number into 4-digit chunks and returns it formatted with dashes.
     But if the number already has spaces or dashes, it simply returns it
     '''
