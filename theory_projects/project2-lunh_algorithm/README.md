@@ -2,6 +2,7 @@
 
 ### Course Description:
 By building this project, you'll gain experience working with numerical computations and string manipulation.
+
 ---
 
 ### Luhn Algorithm:
